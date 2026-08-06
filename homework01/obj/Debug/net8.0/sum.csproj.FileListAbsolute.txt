@@ -1,0 +1,14 @@
+D:\VisualProject\sum\bin\Debug\net8.0\sum.exe
+D:\VisualProject\sum\bin\Debug\net8.0\sum.deps.json
+D:\VisualProject\sum\bin\Debug\net8.0\sum.runtimeconfig.json
+D:\VisualProject\sum\bin\Debug\net8.0\sum.dll
+D:\VisualProject\sum\bin\Debug\net8.0\sum.pdb
+D:\VisualProject\sum\obj\Debug\net8.0\sum.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualProject\sum\obj\Debug\net8.0\sum.AssemblyInfoInputs.cache
+D:\VisualProject\sum\obj\Debug\net8.0\sum.AssemblyInfo.cs
+D:\VisualProject\sum\obj\Debug\net8.0\sum.csproj.CoreCompileInputs.cache
+D:\VisualProject\sum\obj\Debug\net8.0\sum.dll
+D:\VisualProject\sum\obj\Debug\net8.0\refint\sum.dll
+D:\VisualProject\sum\obj\Debug\net8.0\sum.pdb
+D:\VisualProject\sum\obj\Debug\net8.0\sum.genruntimeconfig.cache
+D:\VisualProject\sum\obj\Debug\net8.0\ref\sum.dll

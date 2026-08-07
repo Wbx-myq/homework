@@ -75,7 +75,8 @@
             //有一个棋盘，有64个方格，在第一个方格里面放1粒芝麻重量是0.00001kg，第二个里面放2粒，第三个里面放4，棋盘上放的所有芝麻的重量
             //double num = 0;
             //double weight = 0;
-            //for (int i = 1; i <= 64; i++) {
+            //for (int i = 1; i <= 64; i++)
+            //{
             //    num += Math.Pow(2, i - 1);
             //    weight = num * 0.00001;
             //}
@@ -85,7 +86,7 @@
             //某人在银行有50000元存款。银行每月都要收取服务费，存款大于5000元时每个月收取总额的5%，总额不大于5000元的时候不收服务费；假设这个人存了以后从来都不用，用循环计算银行要扣这个人的手续费能扣多少次？每次扣取后剩余多少钱？
             //int count = 0;
             //double money = 50000;
-            //while (money > 5000) 
+            //while (money > 5000)
             //{
             //    money *= 0.95;
             //    count++;
@@ -94,22 +95,21 @@
 
             //猴子摘桃，猴子摘了x个桃，每天吃一半，再多吃一个，第7天吃的时候剩下一个了，猴子摘了多少桃子？
             //int i = 1;
-            //for (int day = 1; day < 7 ; day++) 
+            //for (int day = 6; day >= 1 ; day--) 
             //{
             //    i= (i + 1) * 2;
             //}
             //Console.WriteLine($"猴子摘了{i}桃子");
 
             //有个皮球，每次落地弹起都是高度的一半，如果从10米高的地方丢下，第十次弹起时，皮球总过经历了多少距离。
-            //double heigth1 = 10;
-            //double sumHeigth = 10;
-            //for (int i = 1; i < 10; i++) 
-            //{
-
-            //    heigth1 *= 0.5;
-            //    sumHeigth += heigth1 * 2;
-            //}
-            //Console.WriteLine($"皮球总过经历了{sumHeigth}距离");
+            double heigth1 = 10;
+            double sumHeigth = 0;
+            for (int i = 1; i < 10; i++)
+            { 
+                sumHeigth += heigth1 * 1.5;
+                heigth1 *= 0.5;
+            }
+            Console.WriteLine($"皮球总过经历了{sumHeigth}距离");
         }
     }
 }

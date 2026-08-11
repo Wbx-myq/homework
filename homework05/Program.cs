@@ -221,14 +221,14 @@
 
             int singerId = 0; 
 
-            // 遍历歌曲集合  根据歌曲名字 获取歌曲ID
+            // 遍历歌曲集合  根据歌曲名字 获取歌手ID
             foreach (Dictionary<string, dynamic> item in songList)
             {
                 // item 就是循环中 歌曲列表的 数据字典
                 if (item["songName"] == song) singerId = item["singerId"];
             }
 
-            // 遍历歌手集合  根据拿到的歌曲id 去判断获取对应的歌手字典并 存储到新list中
+            // 遍历歌手集合  根据拿到的歌手id 去判断获取对应的歌手字典并 存储到新list中
             var songSinger = new List<Dictionary<string, dynamic>>();
             foreach (Dictionary<string, dynamic> item in singerList)
             {

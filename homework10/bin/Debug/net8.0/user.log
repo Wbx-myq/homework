@@ -1,0 +1,5 @@
+[2026-08-15 09:39:55] 操作:注册 | 用户名:韦炳湘 | 无异常
+[2026-08-15 09:40:12] 操作:登录 | 用户名:韦炳湘12345678 | 异常:'System.Text.Json.JsonElement' does not contain a definition for 'username'
+[2026-08-15 09:40:23] 操作:登录 | 用户名:韦炳湘 | 异常:'System.Text.Json.JsonElement' does not contain a definition for 'username'
+[2026-08-15 09:40:34] 操作:程序退出 | 用户名: | 无异常
+[2026-08-15 09:41:17] 操作:注册 | 用户名:韦炳湘 | 异常:'System.Text.Json.JsonElement' does not contain a definition for 'username'

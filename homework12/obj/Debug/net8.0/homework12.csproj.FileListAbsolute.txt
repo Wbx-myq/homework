@@ -1,0 +1,14 @@
+D:\VisualProject\homework12\bin\Debug\net8.0\homework12.exe
+D:\VisualProject\homework12\bin\Debug\net8.0\homework12.deps.json
+D:\VisualProject\homework12\bin\Debug\net8.0\homework12.runtimeconfig.json
+D:\VisualProject\homework12\bin\Debug\net8.0\homework12.dll
+D:\VisualProject\homework12\bin\Debug\net8.0\homework12.pdb
+D:\VisualProject\homework12\obj\Debug\net8.0\homework12.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualProject\homework12\obj\Debug\net8.0\homework12.AssemblyInfoInputs.cache
+D:\VisualProject\homework12\obj\Debug\net8.0\homework12.AssemblyInfo.cs
+D:\VisualProject\homework12\obj\Debug\net8.0\homework12.csproj.CoreCompileInputs.cache
+D:\VisualProject\homework12\obj\Debug\net8.0\homework12.dll
+D:\VisualProject\homework12\obj\Debug\net8.0\refint\homework12.dll
+D:\VisualProject\homework12\obj\Debug\net8.0\homework12.pdb
+D:\VisualProject\homework12\obj\Debug\net8.0\homework12.genruntimeconfig.cache
+D:\VisualProject\homework12\obj\Debug\net8.0\ref\homework12.dll

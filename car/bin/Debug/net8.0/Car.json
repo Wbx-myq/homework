@@ -1,0 +1,16 @@
+[
+  {
+    "Id": 1,
+    "Card": "qw12345",
+    "Type": "轿车",
+    "Status": true,
+    "Price": 500
+  },
+  {
+    "Id": 2,
+    "Card": "qw54321",
+    "Type": "轿车",
+    "Status": true,
+    "Price": 1000
+  }
+]

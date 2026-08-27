@@ -1,0 +1,17 @@
+D:\VisualProject\WinForms\homeworkWF01\homeworkWF01\bin\Debug\net8.0-windows\homeworkWF01.exe
+D:\VisualProject\WinForms\homeworkWF01\homeworkWF01\bin\Debug\net8.0-windows\homeworkWF01.deps.json
+D:\VisualProject\WinForms\homeworkWF01\homeworkWF01\bin\Debug\net8.0-windows\homeworkWF01.runtimeconfig.json
+D:\VisualProject\WinForms\homeworkWF01\homeworkWF01\bin\Debug\net8.0-windows\homeworkWF01.dll
+D:\VisualProject\WinForms\homeworkWF01\homeworkWF01\bin\Debug\net8.0-windows\homeworkWF01.pdb
+D:\VisualProject\WinForms\homeworkWF01\homeworkWF01\obj\Debug\net8.0-windows\homeworkWF01.Form1.resources
+D:\VisualProject\WinForms\homeworkWF01\homeworkWF01\obj\Debug\net8.0-windows\homeworkWF01.Form2.resources
+D:\VisualProject\WinForms\homeworkWF01\homeworkWF01\obj\Debug\net8.0-windows\homeworkWF01.csproj.GenerateResource.cache
+D:\VisualProject\WinForms\homeworkWF01\homeworkWF01\obj\Debug\net8.0-windows\homeworkWF01.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualProject\WinForms\homeworkWF01\homeworkWF01\obj\Debug\net8.0-windows\homeworkWF01.AssemblyInfoInputs.cache
+D:\VisualProject\WinForms\homeworkWF01\homeworkWF01\obj\Debug\net8.0-windows\homeworkWF01.AssemblyInfo.cs
+D:\VisualProject\WinForms\homeworkWF01\homeworkWF01\obj\Debug\net8.0-windows\homeworkWF01.csproj.CoreCompileInputs.cache
+D:\VisualProject\WinForms\homeworkWF01\homeworkWF01\obj\Debug\net8.0-windows\homeworkWF01.dll
+D:\VisualProject\WinForms\homeworkWF01\homeworkWF01\obj\Debug\net8.0-windows\refint\homeworkWF01.dll
+D:\VisualProject\WinForms\homeworkWF01\homeworkWF01\obj\Debug\net8.0-windows\homeworkWF01.pdb
+D:\VisualProject\WinForms\homeworkWF01\homeworkWF01\obj\Debug\net8.0-windows\homeworkWF01.genruntimeconfig.cache
+D:\VisualProject\WinForms\homeworkWF01\homeworkWF01\obj\Debug\net8.0-windows\ref\homeworkWF01.dll
